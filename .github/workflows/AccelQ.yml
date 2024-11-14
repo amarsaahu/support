@@ -28,7 +28,7 @@ jobs:
       uses: accelq/accelq-ci-github-actions@v1.4
       with:
         # Your ACCELQ Application URL in the exact following format: https://<hostname>:<port_num>
-        appURL: "https://poc.accelq.io/"
+        appURL: "https://poc.accelq.io"
         # Your ACCELQ User ID
         userName: "117amarnath@gmail.com"
         # API key available in Profile section of ACCELQ
